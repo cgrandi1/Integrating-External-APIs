@@ -1,0 +1,5 @@
+class CheckDepositController < ApplicationController
+
+    
+
+end 
